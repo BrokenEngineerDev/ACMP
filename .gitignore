@@ -1,0 +1,6 @@
+.gradle
+.idea/
+gradle/
+/build
+INPUT.TXT
+OUTPUT.TXT
